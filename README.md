@@ -10,11 +10,12 @@
 [<img height=30 width=30 alt="Connect on Twitter" src="https://image.flaticon.com/icons/png/512/1384/1384033.png">](https://twitter.com/MalgayaRambabu?s=09)
 
 **Languages and Tools:**  
-<!--
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-download.com%2F18471-html5-logo-download.html&psig=AOvVaw2zbZX2DGvBk3IWGRjGmL6q&ust=1622793046104000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiQh679-vACFQAAAAAdAAAAABAD"></code>--->
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/888/888847.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919825.png"></code>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rambabu-malgaya&show_icons=true&locale=en&layout=compact" alt="Rambabu-malgaya" />
 
