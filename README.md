@@ -18,7 +18,7 @@
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rambabu-malgaya&show_icons=true&theme=radical&count" alt="Rambabu-malgaya" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rambabu-malgaya&show_icons=true&theme=radical&count" alt="Rambabu-malgaya" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula  ,.-->
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rambabu-malgaya&theme=prussian&currStreakNum=DDCE2A&currStreakLabel=EADE0C&sideNums=D93A7C&background=141321&sideLabels=FFFFFF)](https://git.io/streak-stats)
 <!-- 
