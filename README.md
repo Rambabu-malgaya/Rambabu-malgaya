@@ -5,9 +5,9 @@
 <!--- 📫 How to reach me  Mail to:rambabumalgaya7@gmail.com--->
 -  I am student at VIT BHOPAL
 - You can connect with  me : 
-<br />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img height=30 width=30 alt="Mail me" src="https://img-premium.flaticon.com/png/512/725/725643.png?token=exp=1622606153~hmac=a3140f769e7bad4afbb2545760033bcc">](mailto:rambabumalgaya7@gmail.com)
-[<img height=30 width=30 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/512/61/61109.png">](https://www.linkedin.com/in/rambabu-malgaya/) 
-[<img height=30 width=30 alt="Connect on Twitter" src="https://image.flaticon.com/icons/png/512/1384/1384033.png">](https://twitter.com/MalgayaRambabu?s=09)
+<br />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img height=30 width=30 alt="Mail me" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">](mailto:rambabumalgaya7@gmail.com)
+[<img height=30 width=30 alt="Connect on LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://www.linkedin.com/in/rambabu-malgaya/) 
+[<img height=30 width=30 alt="Connect on Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png">](https://twitter.com/MalgayaRambabu?s=09)
 
 **Languages :**  
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambabu-malgaya&theme=radical" width="335px" data-canonical->
