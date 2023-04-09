@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 Hi, I’m @Rambabu-malgaya
-- 👀 I’m interested in C++,html,css,java
-- 🌱 I’m currently learning Web devlopment
+- 👀 I’m interested in C++, Java, HTML, CSS, JavaScript, Python, MySQL, Power BI, Tableau, R 
+- 🌱 I’m currently learning Web devlopment and Data analytics
 <!--- 📫 How to reach me  Mail to:rambabumalgaya7@gmail.com--->
 -  I am student at VIT BHOPAL
 - You can connect with  me : 
