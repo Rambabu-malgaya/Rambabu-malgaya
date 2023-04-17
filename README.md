@@ -1,28 +1,25 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👋 Hi, I’m @Rambabu-malgaya
-- 👀 I’m interested in C++, Java, HTML, CSS, JavaScript, Python, MySQL, Power BI, Tableau, R 
-- 🌱 I’m currently learning Web devlopment and Data analytics
-<!--- 📫 How to reach me  Mail to:rambabumalgaya7@gmail.com--->
--  I am student at VIT BHOPAL
-- You can connect with  me : 
-<br />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img height=30 width=30 alt="Mail me" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">](mailto:rambabumalgaya7@gmail.com)
-[<img height=30 width=30 alt="Connect on LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://www.linkedin.com/in/rambabu-malgaya/) 
-[<img height=30 width=30 alt="Connect on Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png">](https://twitter.com/MalgayaRambabu?s=09)
+<h1 align="center">Hi 👋, I'm Rambabu Malgaya</h1>
+<h3 align="center">A passionate frontend web developer and Data analyst from India</h3>
 
-**Languages :**  
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambabu-malgaya&theme=radical" width="335px" data-canonical->
+- 💬 Ask me about **Frontend web development and Data analytics**
 
+- 📫 How to reach me **rambabumalgaya7@gmail.com**
 
+- ⚡ Fun fact **Introvert at first meeting**
 
-<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rambabu-malgaya&show_icons=true&locale=en&layout=compact" alt="Rambabu-malgaya" />--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rambabu-malgaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rambabu-malgaya" height="30" width="40" /></a>
+<a href="https://fb.com/rambabu.malgaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rambabu.malgaya" height="30" width="40" /></a>
+<a href="https://instagram.com/gurjar__babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurjar__babu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rambabumalgaya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rambabumalgaya7" height="30" width="40" /></a>
+</p>
 
-📈 My GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rambabu-malgaya&show_icons=true&theme=radical&count" alt="Rambabu-malgaya" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula  ,.-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rambabu-malgaya&show_icons=true&locale=en&layout=compact" alt="rambabu-malgaya" /></p>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rambabu-malgaya&theme=prussian&currStreakNum=DDCE2A&currStreakLabel=EADE0C&sideNums=D93A7C&background=141321&sideLabels=FFFFFF)](https://git.io/streak-stats)
-<!-- 
-Rambabu-malgaya/Rambabu-malgaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rambabu-malgaya&show_icons=true&locale=en" alt="rambabu-malgaya" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rambabu-malgaya&" alt="rambabu-malgaya" /></p>
